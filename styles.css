@@ -1,0 +1,71 @@
+h1{
+  font-size: 90px;
+  font-family: 'Archivo Black', sans-serif;
+  color: white;
+  padding: 160px;
+  text-align: center;
+  
+}
+
+h6{
+  line-height: 1px;
+  font-weight: 500;
+}
+ p{
+   font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .main-container header {
+   background-image: url(/milky-ways.jpg) ;
+   height: 450px;
+   margin: 15px;
+ }
+
+ section {
+   display:flex;
+   height: 324px;
+   flex-direction: row;
+   justify-content: space-between;
+   font-size: 20px;
+   font-family: 'Secular One', sans-serif;
+   background-color: li;
+   margin: 15;
+   height: 10;
+ }
+
+ article {
+   width: 270px;
+   height: 374px;
+   background-color: lightgrey;
+   padding-left: 30;
+   padding-top: 30px;
+   font-weight: 900;
+ }
+
+ body {
+   width: 850px;
+   margin: 0px;
+   display: block;
+ }
+
+ label{
+   font-size: 15;
+   line-height: ;
+ }
+
+ #Message {
+   height: 100px;
+ }
+
+ #submit {
+   background-color: black;
+   color: white;
+   font-size: 16px;
+   font-weight: 700;
+   margin-top: 10;
+   padding: 10px 22px
+ }
+
+ form {
+   margin-top: 20px;
+ }
